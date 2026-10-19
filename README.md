@@ -1,4 +1,3 @@
-```markdown
 # ab-fio
 
 **ab-fio** is a containerized storage benchmarking tool designed to evaluate disk and block device performance using [fio](https://github.com/axboe/fio).
@@ -331,4 +330,3 @@ Current documented version: **v2.3.1**
 ## License
 
 See the repository's license file for licensing information.
-```
