@@ -1,0 +1,11 @@
+[global]
+ioengine=libaio
+direct=1
+time_based=1
+group_reporting=1
+
+[lat-write]
+rw=randwrite
+bs=4K
+iodepth=1
+numjobs=1
